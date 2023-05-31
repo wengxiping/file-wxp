@@ -1,9 +1,8 @@
 {
-    "name": "clock/test",
-    "description": "wengxiping",
+    "name": "clock/wxp",
     "autoload": {
         "psr-4": {
-            "Clock\\Test\\": "src/"
+            "Clock\\Wxp\\": "src/"
         }
     },
     "authors": [
@@ -12,6 +11,5 @@
             "email": "1520004071@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
