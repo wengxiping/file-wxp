@@ -1,0 +1,17 @@
+{
+    "name": "clock/test",
+    "description": "wengxiping",
+    "autoload": {
+        "psr-4": {
+            "Clock\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wengxiping",
+            "email": "1520004071@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
